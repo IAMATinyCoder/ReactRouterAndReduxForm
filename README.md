@@ -2,6 +2,8 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
+Final app project for Stephen Grider tutorial - Creating a blog using React Router + Redux Form
+
 ###Getting Started###
 
 There are two methods for getting started with this repo.
